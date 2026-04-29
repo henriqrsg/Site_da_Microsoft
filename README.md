@@ -1,6 +1,6 @@
 # Microsoft Website Clone
 
-Projeto de recriação de interface inspirado no site oficial da Microsoft, desenvolvido com **HTML5** e **CSS3**, com foco em fidelidade visual, organização de layout e boas práticas de front-end.
+Projeto de recriação de interface inspirado no site oficial da Microsoft, desenvolvido com **HTML5**, **CSS3** e **BootStrap**, com foco em fidelidade visual, organização de layout e boas práticas de front-end.
 
 ## Preview
 
